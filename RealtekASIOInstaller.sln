@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealtekASIOInstaller", "RealtekASIOInstaller\RealtekASIOInstaller.csproj", "{9402BACC-B441-42C7-9094-CFA80FB4FEB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9402BACC-B441-42C7-9094-CFA80FB4FEB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9402BACC-B441-42C7-9094-CFA80FB4FEB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9402BACC-B441-42C7-9094-CFA80FB4FEB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9402BACC-B441-42C7-9094-CFA80FB4FEB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C901498-A445-401E-A36D-418095B34F92}
+	EndGlobalSection
+EndGlobal
